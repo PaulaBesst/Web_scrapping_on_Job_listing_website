@@ -86,3 +86,5 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 ---
 
 **Note**: This project is for educational purposes. Please ensure you comply with the website's robots.txt and terms of service when scraping.
+
+⭐ **If you found this project helpful, please give it a star!** ⭐
